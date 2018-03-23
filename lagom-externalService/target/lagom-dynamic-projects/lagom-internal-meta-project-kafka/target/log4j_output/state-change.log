@@ -1,0 +1,3 @@
+[2018-03-23 11:25:51,729] TRACE Controller 0 epoch 1 received response {error_code=0} for a request sent to broker knoldus-Inspiron-5558:9092 (id: 0 rack: null) (state.change.logger)
+[2018-03-23 11:33:16,700] TRACE Controller 0 epoch 2 received response {error_code=0} for a request sent to broker knoldus-Inspiron-5558:9092 (id: 0 rack: null) (state.change.logger)
+[2018-03-23 11:37:02,275] TRACE Controller 0 epoch 3 received response {error_code=0} for a request sent to broker knoldus-Inspiron-5558:9092 (id: 0 rack: null) (state.change.logger)
